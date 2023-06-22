@@ -1,0 +1,21 @@
+Nombre: Pepito
+Apellido: Perez
+Teléfono: 3001125520
+Identificación: 1234567
+Dirección: cra 23 55 20
+Alergias: []
+------------------------------------
+Nombre: Juanito
+Apellido: Porro
+Teléfono: 1335556963
+Identificación: 2233
+Dirección: calle 45 22
+Alergias: [Flores]
+------------------------------------
+Nombre: Jimena
+Apellido: Salazar
+Teléfono: 5668899
+Identificación: 55999
+Dirección: cra 100
+Alergias: [Flores, Sol]
+------------------------------------
